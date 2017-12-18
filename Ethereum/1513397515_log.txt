@@ -1,0 +1,13 @@
+23:11:55:696	2740	args: -epool eth-us-west1.nanopool.org:9999 -ewal 0x95A8D03976771bE5dF0804B7fa01c46df8009Ac7.Worker_1 -epsw x -mode 1 -ftime 10 
+23:11:55:793	2740	
+23:11:55:923	2740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+23:11:55:984	2740	บ     Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v10.0      บ
+23:11:55:990	2740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+23:11:55:995	2740	
+23:11:56:201	2740	ETH: 5 pools are specified
+23:11:56:207	2740	Main Ethereum pool is eth-us-west1.nanopool.org:9999
+23:11:56:236	2740	OpenCL platform: Intel(R) OpenCL
+23:11:56:242	2740	AMD OpenCL platform not found 
+23:11:56:248	2740	cudaGetDeviceCount failed (35, CUDA driver version is insufficient for CUDA runtime version), probably no CUDA devices
+23:11:56:253	2740	No NVIDIA CUDA GPUs detected.
+23:11:56:259	2740	No AMD OPENCL or NVIDIA CUDA GPUs found, exit

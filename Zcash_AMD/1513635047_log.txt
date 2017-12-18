@@ -1,0 +1,11 @@
+17:10:47:542	a14	args: -zpool ssl://zec-us-east1.nanopool.org:6633 -zwal t1aPCtbcwbrpUenDTEgMmUKZcPN4aZDwjK1.WorkerTest -zpsw z -ftime 1 -i 6 -tt 75 
+17:10:47:546	a14	
+17:10:47:549	a14	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+17:10:47:553	a14	บ             Claymore's ZCash AMD GPU Miner v12.6               บ
+17:10:47:558	a14	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+17:10:47:562	a14	
+17:10:47:784	a14	ZEC: 6 pools are specified
+17:10:47:798	a14	Main ZCash pool is zec-us-east1.nanopool.org:6633
+17:10:48:196	a14	OpenCL platform: NVIDIA CUDA
+17:10:48:199	a14	AMD OpenCL platform not found 
+17:10:48:203	a14	No AMD OPENCLGPUs found, exit

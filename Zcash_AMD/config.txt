@@ -1,0 +1,6 @@
+-zpool ssl://:6633
+-zwal .
+-zpsw z
+-ftime 1
+-i 6
+-tt 75
