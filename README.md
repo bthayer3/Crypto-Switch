@@ -1,7 +1,7 @@
 Crypto-Switch
 by BT3
 
-Version 1.0
+ Version 1.0
 Supports Ethereum and Zcash Mining for NVIDIA and AMD graphics cards
 Currently mines on Nanopool.org
 
